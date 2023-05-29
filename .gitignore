@@ -3,7 +3,7 @@
 .idea
 
 # npm
-node_modules
+node_modules/
 package-lock.json
 
 # build
@@ -20,3 +20,5 @@ yarn-error.log
 # Obsidian
 
 data.json
+
+.vscode/
